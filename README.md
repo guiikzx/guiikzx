@@ -7,7 +7,7 @@
 <br>
 
 <div align="center">
-  <img height="190" src="https://github.com/guiikzx/guiikzx/blob/main/nijika.png" />
+  <img height="190" src="https://github.com/guiikzx/guiikzx/blob/main/shimarin.gif?raw=true" />
 </div>
 
 
