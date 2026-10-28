@@ -7,7 +7,7 @@
 <br>
 
 <div align="center">
-  <img height="190" src="https://raw.githubusercontent.com/guiikzx/guiikzx/refs/heads/main/rinshima.gif" />
+  <img height="190" src="https://raw.githubusercontent.com/guiikzx/guiikzx/refs/heads/main/tec.gif" />
 </div>
 
 
